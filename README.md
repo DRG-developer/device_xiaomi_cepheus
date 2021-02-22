@@ -7,4 +7,4 @@ Device configuration for Xiaomi Mi 9
 
 The Xiaomi Mi 9 (codenamed _"cepheus"_) is a high-end smartphone from Xiaomi.
 
-updated for lineageOS 18 by Dexter Braunius
+unable to be updated to LoS 18.1 by me, because i am to stupid for that
