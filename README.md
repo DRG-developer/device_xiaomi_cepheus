@@ -1,5 +1,5 @@
 Copyright (C) 2019 The LineageOS Project
-Copyright (C) 2021 Dexter Braunius
+
 
 Device configuration for Xiaomi Mi 9
 =========================================
